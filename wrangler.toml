@@ -1,0 +1,8 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "fatmaa-and-muhammed-wedding"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "./dist"
+
+[vars]
+# Add any environment variables you want to expose to your Cloudflare Pages application here
+# Note: For public variables used in Vite, configure them in your Pages dashboard or prefix with VITE_

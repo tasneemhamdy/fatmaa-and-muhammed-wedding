@@ -1,0 +1,8 @@
+{
+  "name": "Fatmaa & Muhammed's Wedding Invitation",
+  "description": "A luxury, interactive 3D wedding invitation for Fatmaa & Muhammed, featuring a stylized 3D countdown, interactive guestbook memory wall with floating wishes, and elegant venue details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
